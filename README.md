@@ -1,2 +1,16 @@
-# 1stClassLecture
-In this repository i have all the task which i have done in today saylani class BY Sir Rehan, Sir Kamran and Sir Yousuf Also.
+# My First Class of HTML in Saylani Welfare International Trust.
+###I am enrolled in Batch 4.
+###My Teachers is 
+..***Sir Rehanuddin**
+..***Sir Kamran**
+..***Sir Yousuf**
+
+In Todays Lecture I Have Coveres...
+---
+1. Heading Tags
+2. Bold, Italic and Underline Tags.
+3. div and span tags.
+
+###And here's also my Assignemnt which is RESUME based on HTML.
+
+ 
