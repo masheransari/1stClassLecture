@@ -12,7 +12,7 @@ In Todays Lecture I Have Coveres...
 3. div tag.
    * Block Concept.
 4. Span tag.
-   *Inline Concept
+   * Inline Concept
 
 ###And here's also my Assignemnt which is RESUME based on HTML.
 
